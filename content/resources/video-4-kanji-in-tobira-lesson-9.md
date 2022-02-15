@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Kanji Video Lectures
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Video 4: Kanji in Tobira Lesson 9'
 uid: 7500c64c-e6f8-f331-24bc-18e8a7d0c045
 video_files:
   archive_url: https://archive.org/download/MITRES.21G-506S21/MITRES21G-506S21_Kanji_09_1080p.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-21g-506-kanji-learning-any-time-any-place-for-japanese-vi-spring-2021/28d878b43c8651aaa32831d0c212cd49_hRPRQVG8Tw0.vtt
+  video_captions_file: /courses/res-21g-506-kanji-learning-any-time-any-place-for-japanese-vi-spring-2021/28d878b43c8651aaa32831d0c212cd49_hRPRQVG8Tw0.vtt
   video_thumbnail_file: https://img.youtube.com/vi/hRPRQVG8Tw0/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-21g-506-kanji-learning-any-time-any-place-for-japanese-vi-spring-2021/fc4ed9dd8a39a183e92905aedddc6175_hRPRQVG8Tw0.pdf
+  video_transcript_file: /courses/res-21g-506-kanji-learning-any-time-any-place-for-japanese-vi-spring-2021/fc4ed9dd8a39a183e92905aedddc6175_hRPRQVG8Tw0.pdf
 video_metadata:
   youtube_id: hRPRQVG8Tw0
 ---

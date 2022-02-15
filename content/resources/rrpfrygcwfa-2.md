@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-21g-506-kanji-learning-any-time-any-place-for-japanese-vi-spring-2021/b3a52eef49fb5b619dbb5fb41a394151_RrPfRygcwFA.vtt
+file: /media/courses/res-21g-506-kanji-learning-any-time-any-place-for-japanese-vi-spring-2021/b3a52eef49fb5b619dbb5fb41a394151_RrPfRygcwFA.vtt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: b3a52eef-49fb-5b61-9dbb-5fb41a394151

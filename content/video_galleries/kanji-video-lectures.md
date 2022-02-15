@@ -1,6 +1,8 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Kanji Video Lectures
 uid: 6759bce5-29af-4b20-502a-f400105d5f8a
 videos:
