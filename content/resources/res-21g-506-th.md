@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-21g-506-kanji-learning-any-time-any-place-for-japanese-vi-spring-2021/0804cc07df5bf8321749895bd4bea109_res-21g-506-th.jpg
+file: /courses/res-21g-506-kanji-learning-any-time-any-place-for-japanese-vi-spring-2021/0804cc07df5bf8321749895bd4bea109_res-21g-506-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: "\"\u679C\" is a shokei moji (\u8C61\u5F62\u6587\u5B57) among the 1026\

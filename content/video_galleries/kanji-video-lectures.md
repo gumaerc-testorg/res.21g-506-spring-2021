@@ -1,5 +1,7 @@
 ---
 content_type: video_gallery
+description: "This section provides the kanji video lectures for the kanji in Tobira\
+  \ lessons 6\u201310, also taught in Japanese VI."
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: SupplementalResourceSection

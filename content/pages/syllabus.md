@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the information on this collection of kanji video
+  lectures.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Syllabus
