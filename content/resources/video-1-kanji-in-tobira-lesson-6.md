@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description**: This is a dual-language video, with content in both Japanese and English. Selecting either English or Japanese captions will provide the same dual-language captions. This video covers the Japanese kanji characters in Lesson 6 of the textbook, _[Tobira: Gateway to Advanced Japanese Learning Through Content and Multimedia](https://tobiraweb.9640.jp/)_.
 
 **Instructor**: Dr. Takako Aikawa
-
-
 

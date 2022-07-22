@@ -11,6 +11,7 @@ image_metadata:
   image-alt: A kanji character, a few written phrases using this kanji, and an illustration
     of a fruit tree standing in the middle of a field
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: res-21g-506-th.jpg
