@@ -24,9 +24,10 @@
     "website": "res-21g-506-kanji-learning-any-time-any-place-for-japanese-vi-spring-2021"
   },
   "course_title": "Kanji Learning Any Time, Any Place for Japanese VI",
+  "hide_download": false,
   "course_description": "This resource aims to enhance students\u2019 learning of kanji by providing a series of video lectures that cover the kanji characters in [Tobira](https://tobiraweb.9640.jp/) lessons 6\u201310. The video lectures not only teach how to write kanji but also provide stories behind the kanji characters.\n",
   "department_numbers": [
-    "RES"
+    "21G"
   ],
   "extra_course_numbers": "",
   "primary_course_number": "RES.21G-506",
