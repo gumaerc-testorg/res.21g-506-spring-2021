@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/res-21g-506-kanji-learning-any-time-any-place-for-japanese-vi-spring-2021/fc4ed9dd8a39a183e92905aedddc6175_hRPRQVG8Tw0.pdf
+file: /ol-ocw-studio-app/courses/res-21g-506-kanji-learning-any-time-any-place-for-japanese-vi-spring-2021/fc4ed9dd8a39a183e92905aedddc6175_hRPRQVG8Tw0.pdf
 file_size: 45705
 file_type: application/pdf
 learning_resource_types: []
