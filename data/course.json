@@ -25,7 +25,7 @@
   },
   "course_title": "Kanji Learning Any Time, Any Place for Japanese VI",
   "hide_download": false,
-  "course_description": "This resource aims to enhance students\u2019 learning of kanji by providing a series of video lectures that cover the kanji characters in [Tobira](https://tobiraweb.9640.jp/) lessons 6\u201310. The video lectures not only teach how to write kanji but also provide stories behind the kanji characters.\n",
+  "course_description": "This resource aims to enhance students\u2019 learning of kanji by providing a series of video lectures that cover the kanji characters in {{% resource_link \"558615d0-70d3-4623-9822-49236fb469aa\" \"Tobira\" %}} lessons 6\u201310. The video lectures not only teach how to write kanji but also provide stories behind the kanji characters.\n",
   "department_numbers": [
     "21G"
   ],
