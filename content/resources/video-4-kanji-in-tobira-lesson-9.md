@@ -26,7 +26,7 @@ video_metadata:
   youtube_id: hRPRQVG8Tw0
 ---
 
-**Description**: This is a dual-language video, with content in both Japanese and English. Selecting either English or Japanese captions will provide the same dual-language captions. This video covers the Japanese kanji characters in Lesson 9 of the textbook, _[Tobira: Gateway to Advanced Japanese Learning Through Content and Multimedia](https://tobiraweb.9640.jp/)_.
+**Description**: This is a dual-language video, with content in both Japanese and English. Selecting either English or Japanese captions will provide the same dual-language captions. This video covers the Japanese kanji characters in Lesson 9 of the textbook, _{{% resource_link "558615d0-70d3-4623-9822-49236fb469aa" "Tobira: Gateway to Advanced Japanese Learning Through Content and Multimedia" %}}_.
 
 **Instructor**: Dr. Takako Aikawa
 

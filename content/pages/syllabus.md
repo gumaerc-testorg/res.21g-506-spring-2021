@@ -11,12 +11,12 @@ uid: 6b3dcb5a-fb38-6e1c-7d1f-0f1899d3964d
 Description
 -----------
 
-This course aims to enhance students’ learning of kanji by providing a series of video lectures that cover the kanji characters in [Tobira](https://tobiraweb.9640.jp/) lessons 6–10. The video lectures not only teach how to write kanji but also provide stories behind the kanji characters, so that students can memorize them in a systematic and meaningful way. They make kanji learning more captivating and fun!
+This course aims to enhance students’ learning of kanji by providing a series of video lectures that cover the kanji characters in {{% resource_link "558615d0-70d3-4623-9822-49236fb469aa" "Tobira" %}} lessons 6–10. The video lectures not only teach how to write kanji but also provide stories behind the kanji characters, so that students can memorize them in a systematic and meaningful way. They make kanji learning more captivating and fun!
 
 Textbook
 --------
 
-Tobira = Mayumi Oka et al., _[Tobira: Gateway to Advanced Japanese Learning Through Content and Multimedia](https://tobiraweb.9640.jp/)_, Kurosio Publishing (2009), ISBN: 9784874244470.
+Tobira = Mayumi Oka et al., _{{% resource_link "558615d0-70d3-4623-9822-49236fb469aa" "Tobira: Gateway to Advanced Japanese Learning Through Content and Multimedia" %}}_, Kurosio Publishing (2009), ISBN: 9784874244470.
 
 This table summarizes the kanji characters introduced in the videos:
 
@@ -84,4 +84,4 @@ Tobira lesson 10: 訪 景 区 危 険 役 省 冷 将 情 報 独 身 遠 並
 Additional Resources
 --------------------
 
-The stroke order animation in each video was created using the [web application](https://app.kanjialive.com/search) developed by [Kanji alive](https://kanjialive.com/) (under Creative Commons license, CC BY 4.0). Students can learn more about the stroke order and search for the kanji in each lesson, e.g. using “text:jt:c6” to find kanji in lesson 6 with this web application.
+The stroke order animation in each video was created using the {{% resource_link "3607d4ac-133e-4b66-ae2c-93532112e721" "web application" %}} developed by {{% resource_link "27ea694f-531b-441f-aff6-a56c52e2098e" "Kanji alive" %}} (under Creative Commons license, CC BY 4.0). Students can learn more about the stroke order and search for the kanji in each lesson, e.g. using “text:jt:c6” to find kanji in lesson 6 with this web application.
